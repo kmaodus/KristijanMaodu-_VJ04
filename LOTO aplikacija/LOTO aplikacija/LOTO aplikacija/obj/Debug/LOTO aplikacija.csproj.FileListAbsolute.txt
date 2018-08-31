@@ -1,0 +1,10 @@
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\bin\Debug\LOTO aplikacija.exe.config
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\bin\Debug\LOTO aplikacija.exe
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\bin\Debug\LOTO aplikacija.pdb
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO aplikacija.csprojAssemblyReference.cache
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO_aplikacija.FrmLoto.resources
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO_aplikacija.Properties.Resources.resources
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO aplikacija.csproj.GenerateResource.cache
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO aplikacija.exe
+C:\Users\KristijanPC\Documents\KristijanMaodus_VJ04\LOTO aplikacija\LOTO aplikacija\LOTO aplikacija\obj\Debug\LOTO aplikacija.pdb

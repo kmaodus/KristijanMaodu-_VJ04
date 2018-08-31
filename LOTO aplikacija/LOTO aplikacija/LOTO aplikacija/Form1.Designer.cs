@@ -47,6 +47,8 @@
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.btnUplati = new System.Windows.Forms.Button();
             this.btnOdigraj = new System.Windows.Forms.Button();
+            this.lblNatpis = new System.Windows.Forms.Label();
+            this.lblBrojPogodaka = new System.Windows.Forms.Label();
             this.groupBoxUplaceni.SuspendLayout();
             this.groupBoxDobitni.SuspendLayout();
             this.SuspendLayout();
@@ -206,12 +208,35 @@
             this.btnOdigraj.TabIndex = 3;
             this.btnOdigraj.Text = "Odigraj";
             this.btnOdigraj.UseVisualStyleBackColor = true;
+            this.btnOdigraj.Click += new System.EventHandler(this.btnOdigraj_Click);
+            // 
+            // lblNatpis
+            // 
+            this.lblNatpis.AutoSize = true;
+            this.lblNatpis.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNatpis.Location = new System.Drawing.Point(101, 369);
+            this.lblNatpis.Name = "lblNatpis";
+            this.lblNatpis.Size = new System.Drawing.Size(118, 17);
+            this.lblNatpis.TabIndex = 4;
+            this.lblNatpis.Text = "Broj pogodaka:";
+            // 
+            // lblBrojPogodaka
+            // 
+            this.lblBrojPogodaka.AutoSize = true;
+            this.lblBrojPogodaka.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBrojPogodaka.Location = new System.Drawing.Point(225, 369);
+            this.lblBrojPogodaka.Name = "lblBrojPogodaka";
+            this.lblBrojPogodaka.Size = new System.Drawing.Size(17, 17);
+            this.lblBrojPogodaka.TabIndex = 5;
+            this.lblBrojPogodaka.Text = "0";
             // 
             // FrmLoto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(737, 481);
+            this.Controls.Add(this.lblBrojPogodaka);
+            this.Controls.Add(this.lblNatpis);
             this.Controls.Add(this.btnOdigraj);
             this.Controls.Add(this.btnUplati);
             this.Controls.Add(this.groupBoxDobitni);
@@ -224,6 +249,7 @@
             this.groupBoxDobitni.ResumeLayout(false);
             this.groupBoxDobitni.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -248,6 +274,8 @@
         private System.Windows.Forms.TextBox txtDobitniBroj3;
         private System.Windows.Forms.Button btnUplati;
         private System.Windows.Forms.Button btnOdigraj;
+        private System.Windows.Forms.Label lblNatpis;
+        private System.Windows.Forms.Label lblBrojPogodaka;
     }
 }
 
