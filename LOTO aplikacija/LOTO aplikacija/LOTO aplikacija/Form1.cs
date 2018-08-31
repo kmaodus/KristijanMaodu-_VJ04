@@ -16,5 +16,10 @@ namespace LOTO_aplikacija
         {
             InitializeComponent();
         }
+
+        private void btnUplati_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
